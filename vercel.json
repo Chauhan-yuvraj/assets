@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/:path*",
+      "source": "/icons/:path*",
       "destination": "/assets/icons/:path*"
     }
   ]
