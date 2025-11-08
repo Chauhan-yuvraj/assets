@@ -3,6 +3,10 @@
     {
       "source": "/icons/:path*",
       "destination": "/assets/icons/:path*"
+    },
+    {
+      "source": "/audio/:path*",
+      "destination": "/assets/audio/:path*"
     }
   ]
 }
